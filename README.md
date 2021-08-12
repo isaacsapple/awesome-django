@@ -2,7 +2,19 @@
 
 [![Repository](https://img.shields.io/badge/GitLab-URL-orange.svg)](https://gitlab.com/rosarior/awesome-django) [![Build status](https://gitlab.com/rosarior/awesome-django/badges/master/build.svg)](https://gitlab.com/rosarior/awesome-django/commits/master) ![license](https://img.shields.io/github/license/rosarior/awesome-django.svg)
 
+# News
 
+**August 2021**
+
+I'm very happy to announce that Roberto Rosario, the original author of Awesome Django, has granted permission to continue the project.
+
+I'll be doing my very best to continue the legacy of quality and accuracy.
+
+I look forward to your feedback and contributions.
+
+Thank you!
+
+# Introuction
 
 If you find Awesome Django useful, [please consider donating](https://www.paypal.me/RobertoRosario) to help maintain it. Thank you!
 
