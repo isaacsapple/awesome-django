@@ -1,6 +1,6 @@
-# <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/isaacs_apple/awesome-django/master/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
+# <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/isaacsapple/awesome-django/master/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
-[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/isaacs_apple/awesome-django) [![Build status](https://github.com/isaacs_apple/awesome-django/badges/master/build.svg)](https://github.com/isaacs_apple/awesome-django/commits/master) ![license](https://img.shields.io/github/license/isaacs_apple/awesome-django.svg)
+[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/isaacsapple/awesome-django) [![Build status](https://github.com/isaacsapple/awesome-django/badges/master/build.svg)](https://github.com/isaacsapple/awesome-django/commits/master) ![license](https://img.shields.io/github/license/isaacsapple/awesome-django.svg)
 
 # News
 
